@@ -1,7 +1,7 @@
 /* Odd numbered Elements background (p) */
 .odd {
     background-color: rgb(255, 167, 167);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, "DejaVu Sans", Tahoma, sans-serif;
 
 }
 
@@ -12,7 +12,7 @@
 }
 
 /* third element specifities */
-.odd .three {
+.font-change {
     font-size: 24px;
 
 }
@@ -20,7 +20,6 @@
 /* second ID / 4th element */
 #line4 {
     background-color: #80ff80;
-    font-size: 24px;
     font-weight: bold;
 }
 
